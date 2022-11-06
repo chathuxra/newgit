@@ -4,8 +4,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <p>Hi</p>
+     <div>
+     <h1>Hi</h1>
+     </div>
+     <div>
+      <p>first github project</p>
+     </div>
     </div>
+    
   );
 }
 
